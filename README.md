@@ -2,7 +2,13 @@
 
 This repository is an official implementation of the CVPR 2022 paper "[DESTR: Object Detection with Split Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/He_DESTR_Object_Detection_With_Split_Transformer_CVPR_2022_paper.pdf)". 
 
-## Introduction
+
+
+Split Cross-attention             |    Pipeline (insert miniDet)         |  Pair Attention
+:-------------------------:|:-------------------------:|:-------------------------:
+![](imgs/split.png)  |  ![](imgs/destr.png) |  ![](imgs/pairAtt.png)
+
+
 
 Contributions:
 1. Split estimation of cross attention into two independent branches: one tailored for classification and the other for box regression;
