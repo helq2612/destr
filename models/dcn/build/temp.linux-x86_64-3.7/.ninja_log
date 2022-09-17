@@ -1,0 +1,10 @@
+# ninja log v5
+5	17512	1624483754791138000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/vistr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda_kernel.o	fb5da666b6f9d6e1
+5	19806	1624483757086886000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/vistr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda.o	1ea406b6c76cbdda
+4	27335	1624483764594546000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/vistr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv.o	cd4160b8c8a09b53
+6	22346	1625714250696424000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/visbtr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda_kernel.o	9520443092684625
+6	25290	1625714253642485000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/visbtr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda.o	4f910e849ef04672
+6	31681	1625714260021409000	/nfs/hpc/share/heli/projects/pytorch_projects/amazon2021Summer/visbtr/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv.o	1a1d57ed63ce1cf9
+0	24194	1630523995382361107	/home/heli/heli/projects/pytorch_projects/Detection/ConditionalDETR/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda_kernel.o	2369381b570400d9
+0	31251	1630524002439169831	/home/heli/heli/projects/pytorch_projects/Detection/ConditionalDETR/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv_cuda.o	f201829f5bf4fc97
+0	38241	1630524009423959901	/home/heli/heli/projects/pytorch_projects/Detection/ConditionalDETR/models/dcn/build/temp.linux-x86_64-3.7/deformable/deform_conv.o	69ca8f0a98b5d29d
